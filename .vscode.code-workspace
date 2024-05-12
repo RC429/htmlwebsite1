@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../rclt's website\files"
+		},
+		{
+			"path": "../rclt's website"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": ".vscode"
+	}
+}
